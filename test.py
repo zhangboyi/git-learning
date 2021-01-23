@@ -1,3 +1,8 @@
 
 if __name__ == '__main__':
-    print("hkhaldla")
+    print("hkhaldlkkka")
+    print("test")
+    print("test")
+    print("test")
+    print("test")
+    print("test")
