@@ -4,5 +4,5 @@
 # @Author:boyizhang
 
 import logging
-logging.info("hhh")
+logging.info("hhh1")
 logging.info("hhh3")
