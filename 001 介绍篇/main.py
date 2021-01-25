@@ -5,3 +5,4 @@
 
 import logging
 logging.info("hhh")
+logging.info("hhh2")
