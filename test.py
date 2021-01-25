@@ -4,6 +4,7 @@ if __name__ == '__main__':
     print("hkhaldlkkka")
     print("beoyi")
     print("test")
+<<<<<<< HEAD
     print("test2")
     print("test2")
     print("test3")
@@ -16,6 +17,10 @@ if __name__ == '__main__':
     print("test2")
     print("test3")
     print("test")
+    print("boyi")
+    print("test")
+    print("test")
+    print('test2')
     print("boyi")
     print("test")
     print("test")
